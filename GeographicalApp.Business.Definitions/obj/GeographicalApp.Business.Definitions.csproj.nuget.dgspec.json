@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\New Projects\\GeographicalApp\\GeographicalApp.Business.Definitions\\GeographicalApp.Business.Definitions.csproj": {}
+    "D:\\NewProjects\\GeographicalApp\\GeographicalApp.Business.Definitions\\GeographicalApp.Business.Definitions.csproj": {}
   },
   "projects": {
-    "D:\\New Projects\\GeographicalApp\\GeographicalApp.Business.Definitions\\GeographicalApp.Business.Definitions.csproj": {
+    "D:\\NewProjects\\GeographicalApp\\GeographicalApp.Business.Definitions\\GeographicalApp.Business.Definitions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New Projects\\GeographicalApp\\GeographicalApp.Business.Definitions\\GeographicalApp.Business.Definitions.csproj",
+        "projectUniqueName": "D:\\NewProjects\\GeographicalApp\\GeographicalApp.Business.Definitions\\GeographicalApp.Business.Definitions.csproj",
         "projectName": "GeographicalApp.Business.Definitions",
-        "projectPath": "D:\\New Projects\\GeographicalApp\\GeographicalApp.Business.Definitions\\GeographicalApp.Business.Definitions.csproj",
+        "projectPath": "D:\\NewProjects\\GeographicalApp\\GeographicalApp.Business.Definitions\\GeographicalApp.Business.Definitions.csproj",
         "packagesPath": "C:\\Users\\Mojtaba\\.nuget\\packages\\",
-        "outputPath": "D:\\New Projects\\GeographicalApp\\GeographicalApp.Business.Definitions\\obj\\",
+        "outputPath": "D:\\NewProjects\\GeographicalApp\\GeographicalApp.Business.Definitions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mojtaba\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,22 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

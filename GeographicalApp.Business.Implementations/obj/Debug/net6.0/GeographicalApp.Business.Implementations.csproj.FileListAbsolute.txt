@@ -1,0 +1,17 @@
+D:\NewProjects\GeographicalApp\GeographicalApp.Business.Implementations\bin\Debug\net6.0\GeographicalApp.Business.Implementations.deps.json
+D:\NewProjects\GeographicalApp\GeographicalApp.Business.Implementations\bin\Debug\net6.0\GeographicalApp.Business.Implementations.runtimeconfig.json
+D:\NewProjects\GeographicalApp\GeographicalApp.Business.Implementations\bin\Debug\net6.0\GeographicalApp.Business.Implementations.dll
+D:\NewProjects\GeographicalApp\GeographicalApp.Business.Implementations\bin\Debug\net6.0\GeographicalApp.Business.Implementations.pdb
+D:\NewProjects\GeographicalApp\GeographicalApp.Business.Implementations\bin\Debug\net6.0\GeographicalApp.Business.Definitions.dll
+D:\NewProjects\GeographicalApp\GeographicalApp.Business.Implementations\bin\Debug\net6.0\GeographicalApp.Business.Definitions.pdb
+D:\NewProjects\GeographicalApp\GeographicalApp.Business.Implementations\obj\Debug\net6.0\GeographicalApp.Business.Implementations.csproj.AssemblyReference.cache
+D:\NewProjects\GeographicalApp\GeographicalApp.Business.Implementations\obj\Debug\net6.0\GeographicalApp.Business.Implementations.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewProjects\GeographicalApp\GeographicalApp.Business.Implementations\obj\Debug\net6.0\GeographicalApp.Business.Implementations.AssemblyInfoInputs.cache
+D:\NewProjects\GeographicalApp\GeographicalApp.Business.Implementations\obj\Debug\net6.0\GeographicalApp.Business.Implementations.AssemblyInfo.cs
+D:\NewProjects\GeographicalApp\GeographicalApp.Business.Implementations\obj\Debug\net6.0\GeographicalApp.Business.Implementations.csproj.CoreCompileInputs.cache
+D:\NewProjects\GeographicalApp\GeographicalApp.Business.Implementations\obj\Debug\net6.0\GeographicalApp.Business.Implementations.csproj.CopyComplete
+D:\NewProjects\GeographicalApp\GeographicalApp.Business.Implementations\obj\Debug\net6.0\GeographicalApp.Business.Implementations.dll
+D:\NewProjects\GeographicalApp\GeographicalApp.Business.Implementations\obj\Debug\net6.0\refint\GeographicalApp.Business.Implementations.dll
+D:\NewProjects\GeographicalApp\GeographicalApp.Business.Implementations\obj\Debug\net6.0\GeographicalApp.Business.Implementations.pdb
+D:\NewProjects\GeographicalApp\GeographicalApp.Business.Implementations\obj\Debug\net6.0\GeographicalApp.Business.Implementations.genruntimeconfig.cache
+D:\NewProjects\GeographicalApp\GeographicalApp.Business.Implementations\obj\Debug\net6.0\ref\GeographicalApp.Business.Implementations.dll

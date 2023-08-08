@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\New Projects\\GeographicalApp\\GeographicalApp.Web\\GeographicalApp.Web.csproj": {}
+    "D:\\NewProjects\\GeographicalApp\\GeographicalApp.Web\\GeographicalApp.Web.csproj": {}
   },
   "projects": {
-    "D:\\New Projects\\GeographicalApp\\GeographicalApp.Web\\GeographicalApp.Web.csproj": {
+    "D:\\NewProjects\\GeographicalApp\\GeographicalApp.Business.Definitions\\GeographicalApp.Business.Definitions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New Projects\\GeographicalApp\\GeographicalApp.Web\\GeographicalApp.Web.csproj",
-        "projectName": "GeographicalApp.Web",
-        "projectPath": "D:\\New Projects\\GeographicalApp\\GeographicalApp.Web\\GeographicalApp.Web.csproj",
+        "projectUniqueName": "D:\\NewProjects\\GeographicalApp\\GeographicalApp.Business.Definitions\\GeographicalApp.Business.Definitions.csproj",
+        "projectName": "GeographicalApp.Business.Definitions",
+        "projectPath": "D:\\NewProjects\\GeographicalApp\\GeographicalApp.Business.Definitions\\GeographicalApp.Business.Definitions.csproj",
         "packagesPath": "C:\\Users\\Mojtaba\\.nuget\\packages\\",
-        "outputPath": "D:\\New Projects\\GeographicalApp\\GeographicalApp.Web\\obj\\",
+        "outputPath": "D:\\NewProjects\\GeographicalApp\\GeographicalApp.Business.Definitions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mojtaba\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -40,6 +39,168 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\NewProjects\\GeographicalApp\\GeographicalApp.Business.Implementations\\GeographicalApp.Business.Implementations.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\NewProjects\\GeographicalApp\\GeographicalApp.Business.Implementations\\GeographicalApp.Business.Implementations.csproj",
+        "projectName": "GeographicalApp.Business.Implementations",
+        "projectPath": "D:\\NewProjects\\GeographicalApp\\GeographicalApp.Business.Implementations\\GeographicalApp.Business.Implementations.csproj",
+        "packagesPath": "C:\\Users\\Mojtaba\\.nuget\\packages\\",
+        "outputPath": "D:\\NewProjects\\GeographicalApp\\GeographicalApp.Business.Implementations\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mojtaba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\NewProjects\\GeographicalApp\\GeographicalApp.Business.Definitions\\GeographicalApp.Business.Definitions.csproj": {
+                "projectPath": "D:\\NewProjects\\GeographicalApp\\GeographicalApp.Business.Definitions\\GeographicalApp.Business.Definitions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\NewProjects\\GeographicalApp\\GeographicalApp.Web\\GeographicalApp.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\NewProjects\\GeographicalApp\\GeographicalApp.Web\\GeographicalApp.Web.csproj",
+        "projectName": "GeographicalApp.Web",
+        "projectPath": "D:\\NewProjects\\GeographicalApp\\GeographicalApp.Web\\GeographicalApp.Web.csproj",
+        "packagesPath": "C:\\Users\\Mojtaba\\.nuget\\packages\\",
+        "outputPath": "D:\\NewProjects\\GeographicalApp\\GeographicalApp.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mojtaba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\NewProjects\\GeographicalApp\\GeographicalApp.Business.Definitions\\GeographicalApp.Business.Definitions.csproj": {
+                "projectPath": "D:\\NewProjects\\GeographicalApp\\GeographicalApp.Business.Definitions\\GeographicalApp.Business.Definitions.csproj"
+              },
+              "D:\\NewProjects\\GeographicalApp\\GeographicalApp.Business.Implementations\\GeographicalApp.Business.Implementations.csproj": {
+                "projectPath": "D:\\NewProjects\\GeographicalApp\\GeographicalApp.Business.Implementations\\GeographicalApp.Business.Implementations.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -6,4 +6,16 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GeographicalApp.Business.Definitions\GeographicalApp.Business.Definitions.csproj" />
+    <ProjectReference Include="..\GeographicalApp.Business.Implementations\GeographicalApp.Business.Implementations.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -1,0 +1,14 @@
+D:\NewProjects\GeographicalApp\GeographicalApp.Business.Definitions\bin\Debug\net6.0\GeographicalApp.Business.Definitions.deps.json
+D:\NewProjects\GeographicalApp\GeographicalApp.Business.Definitions\bin\Debug\net6.0\GeographicalApp.Business.Definitions.runtimeconfig.json
+D:\NewProjects\GeographicalApp\GeographicalApp.Business.Definitions\bin\Debug\net6.0\GeographicalApp.Business.Definitions.dll
+D:\NewProjects\GeographicalApp\GeographicalApp.Business.Definitions\bin\Debug\net6.0\GeographicalApp.Business.Definitions.pdb
+D:\NewProjects\GeographicalApp\GeographicalApp.Business.Definitions\obj\Debug\net6.0\GeographicalApp.Business.Definitions.csproj.AssemblyReference.cache
+D:\NewProjects\GeographicalApp\GeographicalApp.Business.Definitions\obj\Debug\net6.0\GeographicalApp.Business.Definitions.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewProjects\GeographicalApp\GeographicalApp.Business.Definitions\obj\Debug\net6.0\GeographicalApp.Business.Definitions.AssemblyInfoInputs.cache
+D:\NewProjects\GeographicalApp\GeographicalApp.Business.Definitions\obj\Debug\net6.0\GeographicalApp.Business.Definitions.AssemblyInfo.cs
+D:\NewProjects\GeographicalApp\GeographicalApp.Business.Definitions\obj\Debug\net6.0\GeographicalApp.Business.Definitions.csproj.CoreCompileInputs.cache
+D:\NewProjects\GeographicalApp\GeographicalApp.Business.Definitions\obj\Debug\net6.0\GeographicalApp.Business.Definitions.dll
+D:\NewProjects\GeographicalApp\GeographicalApp.Business.Definitions\obj\Debug\net6.0\refint\GeographicalApp.Business.Definitions.dll
+D:\NewProjects\GeographicalApp\GeographicalApp.Business.Definitions\obj\Debug\net6.0\GeographicalApp.Business.Definitions.pdb
+D:\NewProjects\GeographicalApp\GeographicalApp.Business.Definitions\obj\Debug\net6.0\GeographicalApp.Business.Definitions.genruntimeconfig.cache
+D:\NewProjects\GeographicalApp\GeographicalApp.Business.Definitions\obj\Debug\net6.0\ref\GeographicalApp.Business.Definitions.dll
